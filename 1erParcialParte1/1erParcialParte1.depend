@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1622038244 source:d:\facultad\laboratorio 1\1erparcialparte1\serviciop.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"serviciop.h"
+
+1622032973 source:d:\facultad\laboratorio 1\1erparcialparte1\trabajop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajop.h"
+
+1621431023 source:d:\facultad\laboratorio 1\1erparcialparte1\fechap.c
+	"fechap.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621427266 d:\facultad\laboratorio 1\1erparcialparte1\fechap.h
+
+1622040179 source:d:\facultad\laboratorio 1\1erparcialparte1\datawarehousep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehousep.h"
+	"fechap.h"
+
+1622040179 d:\facultad\laboratorio 1\1erparcialparte1\datawarehousep.h
+	"trabajop.h"
+
+1622033991 source:d:\facultad\laboratorio 1\1erparcialparte1\marcap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marcap.h"
+
+1622033991 d:\facultad\laboratorio 1\1erparcialparte1\marcap.h
+
+1622033991 source:d:\facultad\laboratorio 1\1erparcialparte1\tipop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipop.h"
+
+1622033991 d:\facultad\laboratorio 1\1erparcialparte1\tipop.h
+
+1622033727 source:d:\facultad\laboratorio 1\1erparcialparte1\notebookp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebookp.h"
+	"datawarehousep.h"
+
+1622040179 d:\facultad\laboratorio 1\1erparcialparte1\notebookp.h
+	"marcap.h"
+	"tipop.h"
+	"clientep.h"
+
+1622040931 source:d:\facultad\laboratorio 1\1erparcialparte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"datawarehousep.h"
+	"marcap.h"
+	"tipop.h"
+	"serviciop.h"
+	"trabajop.h"
+	"notebookp.h"
+	"informesp.h"
+
+1622038244 d:\facultad\laboratorio 1\1erparcialparte1\serviciop.h
+
+1622040179 d:\facultad\laboratorio 1\1erparcialparte1\trabajop.h
+	"fechap.h"
+	"notebookp.h"
+	"serviciop.h"
+
+1622034202 source:d:\facultad\laboratorio 1\1erparcialparte1\clientep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientep.h"
+
+1622031415 d:\facultad\laboratorio 1\1erparcialparte1\clientep.h
+
+1622040827 source:d:\facultad\laboratorio 1\1erparcialparte1\informesp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informesp.h"
+
+1622040842 d:\facultad\laboratorio 1\1erparcialparte1\informesp.h
+	"notebookp.h"
+	"trabajop.h"
+
